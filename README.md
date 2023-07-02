@@ -1,8 +1,13 @@
+
+### Hi there 👋
+
 <a href="https://www.linkedin.com/in/laurasfduarte/"><img height="30" src="https://github.com/JazzyPizza/JazzyPizza/blob/main/icons/linkedin.png?raw=true"></a>
 </p>
 
+![](https://img.shields.io/badge/OS-Windows-blue?logo=windows&logoColor=white&style=flat)
+![](https://img.shields.io/badge/Code-Arduino-blue?logo=arduino&logoColor=white&style=flat)
+![](https://img.shields.io/badge/Tools-GIMP-blue?logo=gimp&logoColor=white&style=flat)
 
-### Hi there 👋
 
 <!--
 **JazzyPizza/JazzyPizza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
