@@ -1,3 +1,7 @@
+<a href="https://www.linkedin.com/in/laurasfduarte/"><img height="30" src="https://github.com/JazzyPizza/JazzyPizza/blob/main/icons/linkedin.png?raw=true"></a>
+</p>
+
+
 ### Hi there 👋
 
 <!--
