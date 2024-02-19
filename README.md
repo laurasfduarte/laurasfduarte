@@ -7,5 +7,5 @@ My research is mainly focussed on the use of an event camera to enable Human-Rob
 
 ### 📫 Contacts:
 
-- E-mail: [laura.duarte@dem.uc.pt](laura.duarte@dem.uc.pt)
+- E-mail: laura.duarte@dem.uc.pt
 - LinkedIn: [https://www.linkedin.com/in/laurasfduarte](https://www.linkedin.com/in/laurasfduarte)
