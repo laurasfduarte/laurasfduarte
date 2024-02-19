@@ -1,22 +1,14 @@
+![Python](https://img.shields.io/badge/Python-Proficient-green)
+![MATLAB](https://img.shields.io/badge/MATLAB-Proficient-green)
+![Arduino](https://img.shields.io/badge/Arduino-Intermediate-yellow)
 
-### Hi there 👋
+I’m a PhD student working at the [Robotics and AI](https://github.com/Robotics-and-AI) research laboratory of the University of Coimbra.
+My research is mainly focussed on the use of an event camera to enable Human-Robot Collaboration, using Deep Neural Networks to classify human actions.
 
-<a href="https://www.linkedin.com/in/laurasfduarte/"><img height="30" src="https://github.com/JazzyPizza/JazzyPizza/blob/main/icons/linkedin.png?raw=true"></a>
-</p>
+### 📧 Get in Touch
 
-![](https://img.shields.io/badge/OS-Windows-blue?logo=windows&logoColor=white&style=flat)
-![](https://img.shields.io/badge/Code-Arduino-blue?logo=arduino&logoColor=white&style=flat)
-![](https://img.shields.io/badge/Tools-GIMP-blue?logo=gimp&logoColor=white&style=flat)
-
-### Languages and Tools
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" width="40" height="40"/>&nbsp;
-   <img src=https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg title="Gimp" width="40" height="40"/>&nbsp;
-</div>
-
-
+- E-mail: [a.stanziola@ucl.ac.uk](a.stanziola@ucl.ac.uk)
+- Linkedin: [https://www.linkedin.com/in/antonio-stanziola-9a3645239](https://www.linkedin.com/in/antonio-stanziola-9a3645239)
 <!--
 **JazzyPizza/JazzyPizza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
