@@ -4,7 +4,7 @@
 
 I am Laura Duarte, a PhD student working at the [Robotics and AI](https://github.com/Robotics-and-AI) research laboratory of the University of Coimbra.  
 
-My research is focussed on the detection, tracking and classification of human actions, with the use of an event camera, to enable Human-Robot Collaboration.
+My research goal is to detect, track and classify human actions with an Event Camera to enable Human-Robot Collaboration.
 
 
 ## ✨ Highlights 
