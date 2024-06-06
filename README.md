@@ -3,7 +3,8 @@
 ![Arduino](https://img.shields.io/badge/Arduino-Intermediate-yellow)
 
 I am Laura Duarte, a PhD student working at the [Robotics and AI](https://github.com/Robotics-and-AI) research laboratory of the University of Coimbra.
-My research is mainly focussed on the use of an event camera to enable Human-Robot Collaboration, using Deep Neural Networks to classify human actions.
+My research is mainly focussed on the detection, tracking and classification of human actions with the use of an event camera to enable Human-Robot Collaboration.
+
 
 ## ✨ Highlights 
 
@@ -13,13 +14,28 @@ My research is mainly focussed on the use of an event camera to enable Human-Rob
 - **[Collaborative Tasks Benchmark (CT Benchmark)](https://github.com/Robotics-and-AI/collaborative-tasks-benchmark)** 🏙️
   - Collaborative Tasks Benchmark - 3D printable pieces for the study of collaborative assembly systems.
 
-## 📰 Publications and Papers
 
-- **"Machine Learning for Health Monitoring"**
-  - **Description:** Research on machine learning applications in health monitoring.
-  - **Link:** [Link to Paper]
+## 📰 Publications and Papers
+Authors marked with \* contributed equally to the work.
+
+**2024**
+- <a name="Duarte24dib"></a>Duarte, L., Neto, P., *[Event-based dataset for the detection and classification of manufacturing assembly tasks](https://doi.org/10.1016/j.dib.2024.110340),*  
+Data in Brief, vol. 54, article 110340, 2024. [Dataset](https://doi.org/10.5281/zenodo.10562563), [Code](https://github.com/Robotics-and-AI/DAVIS-data-capture-system).
+
+**2023** 
+- <a name="Neves23irc"></a>Neves, M.\*, Duarte, L.\*, Neto, P., *[A Collaborative Robot-Assisted Manufacturing Assembly Process](https://doi.org/10.1007/978-3-031-58676-7_33),*  
+Robot 2023: Sixth Iberian Robotics Conference. Lecture Notes in Networks and Systems, vol. 976, pp. 411-416, 2023.
+
+- <a name="Duarte23jmsy"></a>Duarte, L., Neto, P., *[Classification of primitive manufacturing tasks from filtered event data](https://doi.org/10.1016/j.jmsy.2023.03.001)*,  
+Journal of Manufacturing Systems, vol. 68, pp. 12-24, 2023. [Dataset](https://doi.org/10.5281/zenodo.7625961)
+
+**2021**
+- <a name="Duarte21sensrev"></a>Duarte, L., Safeea, M., Neto, P., *[Event-based tracking of human hands](https://doi.org/10.1108/SR-03-2021-0095)*,  
+Sensor Review, vol. 41 (4), pp. 382-389, 2021. [Dataset](https://doi.org/10.5281/zenodo.4918319)
+
 
 ## 📫 Contacts:
+Feel free to reach out if you have any questions or collaboration ideas!
 
 - E-mail: laura.duarte@dem.uc.pt
 - LinkedIn: [https://www.linkedin.com/in/laurasfduarte](https://www.linkedin.com/in/laurasfduarte)
