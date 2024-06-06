@@ -2,8 +2,9 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-Proficient-green)
 ![Arduino](https://img.shields.io/badge/Arduino-Intermediate-yellow)
 
-I am Laura Duarte, a PhD student working at the [Robotics and AI](https://github.com/Robotics-and-AI) research laboratory of the University of Coimbra.
-My research is mainly focussed on the detection, tracking and classification of human actions with the use of an event camera to enable Human-Robot Collaboration.
+I am Laura Duarte, a PhD student working at the [Robotics and AI](https://github.com/Robotics-and-AI) research laboratory of the University of Coimbra.  
+
+My research is focussed on the detection, tracking and classification of human actions, with the use of an event camera, to enable Human-Robot Collaboration.
 
 
 ## ✨ Highlights 
