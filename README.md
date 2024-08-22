@@ -19,6 +19,9 @@ Python code for recording DAVIS240C videos and processing event data into numpy 
 Authors marked with \* contributed equally to the work.
 
 **2024**
+- <a name="Duarte24aims"></a><ins>Duarte, L.\*</ins>, Polito, M.\*, Gastaldi, L., Neto, P., Pastorelli, S., *[Demonstration of Real-Time Event Camera to Collaborative Robot Communication](https://doi.org/10.1007/978-3-031-64553-2_41),*  
+Advances in Italian Mechanism Science, IFToMM Italy 2024. Mechanisms and Machine Science, vol 163, pp.351-358, 2024.
+
 - <a name="Duarte24rie"></a><ins>Duarte, L.\*</ins>, Neves, M.\*, Neto, P., *[Benchmarking human-robot collaborative assembly tasks](https://doi.org/10.1016/j.rineng.2024.102042),*  
 Results in Engineering, vol. 22, article 102042, 2024. [Github Repository](https://github.com/Robotics-and-AI/collaborative-tasks-benchmark).
 
