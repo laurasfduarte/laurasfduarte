@@ -18,11 +18,12 @@ Python code for recording DAVIS240C videos and processing event data into numpy 
 ## 📰 Publications
 Authors marked with \* contributed equally to the work.
 
-**2024**
+**2025**
 - <a name="Vico24icarsc"></a> Vico L., Polito M., <ins>Duarte L.</ins>, Pastorelli S., Gastaldi L., Neto, P.,  
 *[Online Classification of Human Gestures Through Event Camera Data Using a 3DCNN](https://doi.org/10.1109/ICARSC65809.2025.10970178),*  
 2025 IEEE International Conference on Autonomous Robot Systems and Competitions (ICARSC), Funchal, Portugal, 2025, pp. 52-57.
 
+**2024**
 - <a name="Duarte24aims"></a><ins>Duarte, L.\*</ins>, Polito, M.\*, Gastaldi, L., Neto, P., Pastorelli, S.,  
 *[Demonstration of Real-Time Event Camera to Collaborative Robot Communication](https://doi.org/10.1007/978-3-031-64553-2_41),*  
 Advances in Italian Mechanism Science, IFToMM Italy 2024. Mechanisms and Machine Science, vol 163, pp. 351-358, 2024.
