@@ -5,6 +5,9 @@ My research goal is to detect, track and classify human actions with an Event Ca
 
 ## ✨ Highlights 
 
+- **[DAVIS Real-Time UDP Communication](https://github.com/Robotics-and-AI/DAVIS-real-time-communication)** 📡  
+Python code for capturing and sending DAVIS240C event data through UDP.
+
 - **[DAVIS Data Capture System](https://github.com/Robotics-and-AI/DAVIS-data-capture-system)** 📷  
 Python code for recording DAVIS240C videos and processing event data into numpy format.
 
