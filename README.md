@@ -1,9 +1,9 @@
-I am Laura Duarte, a PhD researcher working at the [Robotics and AI](https://github.com/Robotics-and-AI) research laboratory of the University of Coimbra.  
-
-My research goal is to detect, track and classify human actions with an Event Camera to enable Human-Robot Collaboration.
-
+Mechanical Engineering PhD focused on developing high-performance algorithms, digital twin models, and interoperable systems for industrial applications. Combines a strong research background with hands-on experience in system design to translate advanced technologies into scalable, real-world solutions for manufacturing and robotics
 
 ## ✨ Highlights 
+
+- **[RaceParty Coimbra](https://github.com/laurasfduarte/RaceParty_Coimbra)** 🏎️  
+Fully documented hardware and software for the RaceParty competition.
 
 - **[DAVIS Real-Time UDP Communication](https://github.com/Robotics-and-AI/DAVIS-real-time-communication)** 📡  
 Python code for capturing and sending DAVIS240C event data through UDP.
