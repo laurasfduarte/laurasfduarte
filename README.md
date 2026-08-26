@@ -48,10 +48,3 @@ Journal of Manufacturing Systems, vol. 68, pp. 12-24, 2023. [Dataset](https://do
 - <a name="Duarte21sensrev"></a><ins>Duarte, L.</ins>, Safeea, M., Neto, P.,  
 *[Event-based tracking of human hands](https://doi.org/10.1108/SR-03-2021-0095)*,  
 Sensor Review, vol. 41 (4), pp. 382-389, 2021. [Dataset](https://doi.org/10.5281/zenodo.4918319)
-
-
-## 📫 Contacts:
-Feel free to reach out if you have any questions or collaboration ideas!
-
-- E-mail: laura.duarte@dem.uc.pt
-- LinkedIn: [https://www.linkedin.com/in/laurasfduarte](https://www.linkedin.com/in/laurasfduarte)
